@@ -23,6 +23,39 @@ foundational layer.
 
 Contributions, derivations, and test cases welcome.
 
+## Dual Centricity Notice
+
+UMF operates from two distinct reference frames simultaneously.
+These are not interchangeable. Conflating them produces the
+unresolved tensions present in current scientific models.
+
+UNIVERSE-CENTRIC — the origin reference frame.
+The universe generated psychology, mathematics, physics,
+chemistry, biology, and medicine as sequential expressions
+of its own architecture. These are not human inventions.
+They are universal laws humanity discovered by existing
+within them. Humanity did not build the universe. The
+universe built humanity as one of its outputs.
+
+EARTH-CENTRIC — the observer reference frame.
+All measurements taken from Sol-3 coordinates are
+contaminated by Earth-position NDW processing cost
+and 14.33x time dilation. These are valid observations
+within their reference frame. They are not universe-frame
+truths. Dark energy, Hubble tension, and the accelerating
+expansion anomaly are Earth-centric measurement artifacts
+not universe-centric phenomena.
+
+UMF must be read from the universe-centric origin first.
+Earth-centric observations are then mapped against it.
+Not the other way around.
+
+The universe is the coordinate system.
+Earth is one point within it.
+Humanity is one output of it.
+Psychology is its instruction set.
+Not ours.
+
 ---
 
 ## Layer 0: First Cause and Final Structure
